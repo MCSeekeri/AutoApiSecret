@@ -49,6 +49,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 * 第二步，登陆/新建github账号，回到本项目页面，点击右上角fork本项目的代码到你自己的账号，然后你账号下会出现一个一模一样的项目，接下来的操作均在你的这个项目下进行。（看不到图片/图裂请科学上网）
 
   ![image](https://github.com/wangziyingwen/ImageHosting/blob/master/AutoApi/fork.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMCSeekeri%2FAutoApiSecret.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMCSeekeri%2FAutoApiSecret?ref=badge_shield)
   
 * 根据[原教程](https://blog.432100.xyz/index.php/archives/50/)获取应用id、机密、refresh_token（自己复制保存，注意区分id机密，别弄混了）
    
@@ -144,3 +145,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
   最后的最后，再次感谢黑幕/paran大佬
   
   ————wangziyingwen/酷安id-卷腿毛菌
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMCSeekeri%2FAutoApiSecret.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMCSeekeri%2FAutoApiSecret?ref=badge_large)
